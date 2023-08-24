@@ -7,7 +7,6 @@ namespace DiceGame
         {
 
             Random random = new Random();
-            bool playAgain = true;
             int rounds = 0;
             int computer;
             int player;
@@ -82,7 +81,7 @@ namespace DiceGame
                     BlockText("IT'S A DRAW!");
                 }
                 Console.Write("Would you like to play again (Y/N)? :");
-            } while (playAgain = Console.ReadLine()?.ToUpper() == "Y" ? true : false);
+            } while (Console.ReadLine()?.ToUpper() == "Y");
 
         }
         static void BlockText(string text)
