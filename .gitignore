@@ -2,8 +2,10 @@
 /Guessing-game/bin
 Guessing-game.csproj
 
-
-
 /Rock-Paper-Scissors/obj
 /Rock-Paper-Scissors/bin
 Rock-Paper-Scissors.csproj
+
+/Dice-Game/obj
+/Dice-Game/bin
+Dice-Game.csproj
