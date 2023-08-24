@@ -9,3 +9,7 @@ Rock-Paper-Scissors.csproj
 /Dice-Game/obj
 /Dice-Game/bin
 Dice-Game.csproj
+
+/Calculator/obj
+/Calculator/bin
+Calculator.csproj
