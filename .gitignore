@@ -13,3 +13,7 @@ Dice-Game.csproj
 /Calculator/obj
 /Calculator/bin
 Calculator.csproj
+
+/ATM-app/obj
+/ATM-app/bin
+ATM-app.csproj
