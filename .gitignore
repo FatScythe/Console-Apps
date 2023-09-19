@@ -17,3 +17,7 @@ Calculator.csproj
 /ATM-app/obj
 /ATM-app/bin
 ATM-app.csproj
+
+/Note-app/obj
+/Note-app/bin
+Note-app.csproj
